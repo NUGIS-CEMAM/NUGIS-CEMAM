@@ -1,9 +1,5 @@
-### Olá! Me chamo Cleto Freire
-
-## Seja bem vindo(a)!! 👋
-- 😄 Pronomes: ele/dele
-- Cientista de dados com 1 ano de experiência. Em minha formação acadêmica, me familiarizei com a linguagem R para realizar análises estatísticas na pesquisa científica. Tendo vivido experiencias anteriores com dados na academia, agora, me firmo como estudante de ciência de dados com aplicabilidade para o mercado, focando na linguagem Python como ferramenta principal. 
-- Atualmente Pesquisador do Projeto Cetáceos da Costa Branca e onde atuo como pesquisador e analista de dados  🌱.
+## Seja bem vindo(a) ao repositório do NUGIS ( Núcleo de Dados e Geoprocessamento)!! 
+-  Olá , Núcleo de dados e geoprocessamento do Centro de  Estudos e Monitoramento Ambiental (CEMAM) uma Organização Não Governamental, sem fins lucrativos, que  realiza atividades de pesquisa, monitoramento e conservação do meio ambiente em ecossistemas marinhos, costeiros e terrestres associados. .
 
 ## 🖥️ Tenho conhecimentos em: 
 
